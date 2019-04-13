@@ -1,0 +1,4 @@
+﻿Keys
+-h - to call the help;
+-d - directory for rename;
+-n - file name, mask, or regular expression.
